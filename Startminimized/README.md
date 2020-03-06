@@ -22,6 +22,7 @@ For example in our case :
     - Enter this ***command*** in your favorite startup tool (like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/) :
        
        For exemple for starting ***Thunderbird*** at startup :
+       
         `python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird` 
        
        or in our case :
