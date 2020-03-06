@@ -3,7 +3,7 @@ A Python 3 program that allows you start a program minimized. For exemple Thunde
 To execute it tap :
 `python3 "/home/[your username folder]/Startminimized/Startminimized.py" thunderbird`
 ## How to install :
-1. Download Startminimized.py in your Home directory. For exemple : /home/*** your user name ***/Startminimized/ (*Replace "your user name" by your username folder)
+1. Download Startminimized.py in your Home directory. For exemple : /home/***your user name***/Startminimized/ (*Replace ***"your user name"*** by your username folder)
 2. Download dependencies :
 `sudo apt-get update && sudo apt-get install wmctrl && sudo apt-get install xdotool && sudo apt-get update`
 3. Then open your Terminal in the folder where "Startminimized.py" is located and make it executable by typing :
