@@ -19,14 +19,14 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 
 
-3. Copy the VPN UUID:
+3. Copy the VPN name and UUID:
 
 
 ![Image of the nmcli con command](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image1.png)
 
 
 
-4. Paste the UUID in the "VPNautoconnect.sh" file :
+4. Paste the name and UUID in the "VPNautoconnect.sh" file :
 
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
