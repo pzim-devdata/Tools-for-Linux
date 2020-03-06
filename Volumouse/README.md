@@ -8,7 +8,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
     - Open your Terminal and type:
      
         - `amixer set Master 5%+` If this command increases the volume, download the files ***"Volumouse_amixer_right.py"*** and ***"Volumouse_amixer_left.py"***
-        - if `amixer set Master 5%+` is nor working try `amixer -q sset Master 5%+` If this command increases the volume, download the files ***"Volumouse_amixer_sset_right.py"*** and ***"Volumouse_amixer_sset_left.py"***
+        - if `amixer set Master 5%+` is not working try `amixer -q sset Master 5%+` If this command increases the volume, download the files ***"Volumouse_amixer_sset_right.py"*** and ***"Volumouse_amixer_sset_left.py"***
         - `pactl set-sink-volume 0 + 5%` If this command increases the volume, download the files ***"Volumouse_pactl_0_right.py"*** and ***"Volumouse_pactl_0_left.py"***
         - `pactl set-sink-volume 1 + 5%` If this command increases the volume, download the files ***"Volumouse_pactl_1_right.py"*** and ***"Volumouse_pactl_1_left.py"***
         - `pactl set-sink-volume 2 + 5%` If this command increases the volume, download the files ***"Volumouse_pactl_2_right.py"*** and ***"Volumouse_pactl_2_left.py"***
