@@ -12,7 +12,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 
 
-2. You must first know your UUID for the VPN connection :
+2. You must first know your UUID for the VPN connection and the name of this connection:
 
     - Type in the Terminal **when you are connected to the VPN** :
 
