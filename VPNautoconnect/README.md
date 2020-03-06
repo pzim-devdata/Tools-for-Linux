@@ -47,7 +47,7 @@ or in our case :
 
 For exemple in our case :
 
-`chmod + x /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
+`chmod +x /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
 
 
 
