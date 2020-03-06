@@ -6,6 +6,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
 
 1. First you must know the Terminal command which allows you to modify the volume:
      - Open your Terminal and type:
+     
          - `mix Master set 5% +`
          If this command increases the volume, download the files "Volumouse_amixer_right.py" and "Volumouse_amixer_left.py"
          - `pactl set-sink-volume 0 + 5%`
