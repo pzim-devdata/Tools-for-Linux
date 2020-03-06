@@ -7,7 +7,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 
 
-1. Download the file "VPNautoconnect.sh" in a folder in your Home directory. For exemple /home/***your user name***/VPN (*Replace "your user name" by your user name folder
+1. Download the file "VPNautoconnect.sh" in a folder in your Home directory. For exemple /home/***your user name***/VPN (*Replace "your user name" by your username's folder
 )
 
 
@@ -27,11 +27,15 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 
 
-4. Paste the name and UUID in the "VPNautoconnect.sh" file :
+4. Paste the VPN name and UUID in the "VPNautoconnect.sh" file :
 
-`gedit /home/your user name/VPN/VPNautoconnecte.sh`
+To open "VPNautoconnect.sh" tape in your terminal :
 
-(*Replace "your user name" by your user name folder)
+`sudo gedit /path/to/my/script/VPNautoconnecte.sh`
+
+or in our case :
+
+`sudo gedit /home/your user name/VPN/VPNautoconnecte.sh` (*Replace "your user name" by your username's folder)
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
 
@@ -43,8 +47,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 For exemple in our case :
 
-`chmod + x /home/your user name/VPN/VPNautoconnect.sh`
-(*Replace "your user name" by your user name folder)
+`chmod + x /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
 
 
 
@@ -66,25 +69,24 @@ If you want to connect to the VPN automatically at startup :
 
             or in our exemple :
 
-            `@reboot /home/your user name/VPN/VPNautoconnect.sh`
-            (*Replace "your user name" by your user name folder)
+            `@reboot /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
 
 
         - Tape CTRL + X then y and Enter to save the document
 
 Reboot an enjoy ! :-)
 
-If it's not working try to replace in the file "VPNautoconnect.sh" :
+If it's not working try to replace in the file "VPNautoconnect.sh" `nmcli con status` by `nmcli con show --active` :
 
-`gedit /home/your user name/VPN/VPNautoconnecte.sh`
+To modifiy the file "VPNautoconnect.sh" tape in your terminal :
 
-(*Replace "your user name" by your user name folder)
+`sudo gedit /path/to/my/script/VPNautoconnecte.sh`
 
-`nmcli con status`
+or in our case :
 
-by
-	
-`nmcli con show --active`
+`sudo gedit /home/your user name/VPN/VPNautoconnecte.sh` (*Replace "your user name" by your username's folder)
+
+
 
 
    
