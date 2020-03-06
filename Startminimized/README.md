@@ -1,7 +1,7 @@
 # Sartminimized.py
-A Python 3 program that allows you start a program minimized. For exemple Thunderbird.
+A Python 3 program that allows you to start a program minimized. For exemple Thunderbird.
 To execute it tap :
-`python3 "/home/[your username folder]/Startminimized/Startminimized.py" thunderbird`
+`python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird`
 ## How to install :
 1. Download Startminimized.py in your Home directory. For exemple : /home/***your user name***/Startminimized/ (*Replace ***"your user name"*** by your username folder)
 2. Download dependencies :
