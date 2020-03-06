@@ -5,7 +5,9 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 ## How to install :
 
+
 1. Download the file "VPNautoconnecte.sh" in a folder in your Home directory. For exemple /home/***your user name***/VPN
+
 
 2. You must first know your UUID for the VPN connection :
 
@@ -13,13 +15,16 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 `nmcli con`
 
+
 3. Copy the VPN UUID:
 
 ![Image of the nmcli con command](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image1.png)
 
+
 4. Paste the UUID in the "VPNautoconnecte.sh" file :
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
+
 
 5. Then open your Terminal in the folder where "VPNautoconnecte.sh" is located and type :
 
@@ -31,9 +36,12 @@ For exemple in our case :
 
 Now when you disconnect from the VPN it will automatically reconnect ;-)
 
+
 6. Connect to the VPN at startup :
 
-    - If you want to connect to the VPN automatically at startup, enter the address of this script on your favorite startup tool.
+If you want to connect to the VPN automatically at startup :
+
+    - Enter the address of this script on your favorite startup tool.
 
     - Or you can edit "crontab" :
 
