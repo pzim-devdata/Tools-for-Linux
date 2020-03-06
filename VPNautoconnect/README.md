@@ -41,9 +41,9 @@ Now when you disconnect from the VPN it will automatically reconnect ;-)
 
 If you want to connect to the VPN automatically at startup :
 
-    - Enter the address of the script "VPNautoconnect.sh" in your favorite startup tool
+   - Enter the address of the script "VPNautoconnect.sh" in your favorite startup tool
 
-    - Or you can edit "crontab" :
+   - Or you can edit "crontab" :
 
         - Tape in your Terminal :
         
