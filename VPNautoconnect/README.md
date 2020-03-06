@@ -61,7 +61,7 @@ If you want to connect to the VPN automatically at startup :
 
         - Tape in your Terminal :
         
-            `crontab -e`
+            `sudo crontab -e`
 
         - Then copy this line at the end of the document :
 
