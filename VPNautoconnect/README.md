@@ -5,7 +5,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 ## How to install :
 
-1. Download the file "VPNautoconnecte.sh" in a folder in your Home directory. For exemple /home/***user***/VPN
+1. Download the file "VPNautoconnecte.sh" in a folder in your Home directory. For exemple /home/***your user user***/VPN
 
 2. You must first know your UUID for the VPN connection :
 
@@ -27,8 +27,28 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 For exemple in our case :
 
-`chmod + x /home/***user***/VPN/VPNautoconnecte.sh`
+`chmod + x /home/your user name/VPN/VPNautoconnecte.sh`
 
 Now when you disconnect from the VPN it will automatically reconnect ;-)
 
-If you want to connect to the VPN automatically at startup, run this script at startup with your favorite tool.
+6. Connect to the VPN at startup :
+
+If you want to connect to the VPN automatically at startup, enter the address of this script on your favorite startup tool.
+
+Or you can edit "crontab" :
+
+    - Tape in your Terminal :
+   
+`crontab -e`
+
+    - Then copy this line at the end of the document :
+
+`@reboot /path/to/my/script/VPNautoconnecte.sh`
+
+or in our exemple :
+
+`@reboot /home/your user name/VPN/VPNautoconnecte.sh`
+
+
+    - Tape CTRL + X then y and Enter to save the document
+   
