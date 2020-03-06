@@ -28,7 +28,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
 
         - Tape in your Terminal :
         
-            `crontab -e`
+            `sudo crontab -e`
 
         - Then copy this line at the end of the document :
 
