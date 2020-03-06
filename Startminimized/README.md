@@ -28,7 +28,7 @@ For exemple in our case :
 
         Then copy this line at the end of the document :
 
-        `@reboot pythin3 "/path/to/my/program/Startminimized.py" thunderbird`
+        `@reboot python3 "/path/to/my/program/Startminimized.py" thunderbird`
 
         or in our exemple :
 
