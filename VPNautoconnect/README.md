@@ -1,9 +1,9 @@
-#VPNautoconnect.sh
+# VPNautoconnect.sh
 
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect if connection is lost.
 
 
-##How to install :
+## How to install :
 
 1. Download the file "VPNautoconnecte.sh" in a folder in your Home directory. For exemple /home/***user***/VPN
 
