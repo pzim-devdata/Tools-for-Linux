@@ -76,17 +76,6 @@ If you want to connect to the VPN automatically at startup :
 
 Reboot an enjoy ! :-)
 
-If it's not working try to replace in the file "VPNautoconnect.sh" `nmcli con status` by `nmcli con show --active` :
-
-To modifiy the file "VPNautoconnect.sh" tape in your terminal :
-
-`sudo gedit /path/to/my/script/VPNautoconnecte.sh`
-
-or in our case :
-
-`sudo gedit /home/your user name/VPN/VPNautoconnecte.sh` (*Replace "your user name" by your username's folder)
-
-
 
 
    
