@@ -43,7 +43,7 @@ or in our case :
 
 5. Then open your Terminal in the folder where "VPNautoconnect.sh" is located and type :
 
-`chmod + x /path/to/my/script/VPNautoconnect.sh`
+`chmod +x /path/to/my/script/VPNautoconnect.sh`
 
 For exemple in our case :
 
