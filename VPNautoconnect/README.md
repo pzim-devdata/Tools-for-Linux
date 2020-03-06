@@ -5,7 +5,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 ## How to install :
 
-1. Download the file "VPNautoconnecte.sh" in a folder in your Home directory. For exemple /home/***your user user***/VPN
+1. Download the file "VPNautoconnecte.sh" in a folder in your Home directory. For exemple /home/***your user name***/VPN
 
 2. You must first know your UUID for the VPN connection :
 
