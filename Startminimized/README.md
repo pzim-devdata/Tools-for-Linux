@@ -19,7 +19,7 @@ For exemple in our case :
     - Enter this ***command*** in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
        For exemple for starting Thunderbird at startup :
        
-       `python3 "/home/[your username folder]/Startminimized/Startminimized.py" thunderbird` #(* Replace ***"[your user name]"*** by your username's folder)
+       `python3 "/home/[your username folder]/Startminimized/Startminimized.py" thunderbird` #(* Replace ***"[your user name folder]"*** by your username's folder)
 
     - Or you can edit "crontab" (doesn't work for me):
 
