@@ -21,7 +21,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
 
 3. If you want to start Volumouse automatically at startup :
 
-   - Enter the ***command*** of the Python files in your favorite startup tool :
+   - Enter this ***two commands*** of the Python files in your favorite startup tool :
        - `python3 "/home/***your user name***/Volumouse/***Your file Volumouse_left.py***" ` (*Replace "***your user name***" by your username folder and "***Your file Volumouse_left.py***" by the name of the Python file for the LEFT side)
        - `python3 "/home/***your user name***/Volumouse/***Your file Volumouse_right.py***" ` (*Replace "***your user name***" by your username folder and "***Your file Volumouse_right.py***" by the name of the Python file for the RIGHT side)
 
@@ -31,7 +31,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
         
             `crontab -e`
 
-        - Then copy this two lines at the end of the document :
+        - Then copy this ***two lines*** at the end of the document :
 
             - `@reboot python3 "/home/***your user name***/Volumouse/***Your file Volumouse_left.py***" ` (*Replace "***your user name***" by your username folder and "***Your file Volumouse_left.py***" by the name of the Python file for the LEFT side) 
             - `@reboot python3 "/home/***your user name***/Volumouse/***Your file Volumouse_right.py***" ` (*Replace "***your user name***" by your username folder and "***Your file Volumouse_left.py***" by the name of the Python file for the RIGHT side) 
