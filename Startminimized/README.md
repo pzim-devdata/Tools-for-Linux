@@ -13,7 +13,7 @@ To execute it tap :
 
 `chmod +x /path/to/my/program/Startminimized.py`
 
-For exemple in our case :
+For example in our case :
 
 `chmod +x ~home/Startminimized/Startminimized.py` 
 
