@@ -32,7 +32,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
 
         - Then copy this line at the end of the document :
 
-            - `@reboot python3 "/home/#your user name#/Volumouse/#Your file Volumouse_left.py#" && "/home/#your user name#/Volumouse/#Your file Volumouse_right.py#"` (*Replace "***#your user name#***" by your username folder and "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side) and and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
+            - `@reboot python3 "/home/#your user name#/Volumouse/#Your file Volumouse_left.py#" & python3 "/home/#your user name#/Volumouse/#Your file Volumouse_right.py#"` (*Replace "***#your user name#***" by your username folder and "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side) and and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
             
            
 
