@@ -8,5 +8,5 @@ do
 	else
 		echo "You are connected to the VPN !"
 	fi
-	sleep 30
+	sleep 5
 done
