@@ -15,7 +15,7 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
         - `pactl set-sink-volume 1 + 5%` If this command increases the volume, download the files ***"Volumouse_pactl_1_right.py"*** and ***"Volumouse_pactl_1_left.py"***
         - `pactl set-sink-volume 2 + 5%` If this command increases the volume, download the files ***"Volumouse_pactl_2_right.py"*** and ***"Volumouse_pactl_2_left.py"***
 
-2. Download the correct 2 files in your "Home" directory. For exemple : /home/***your user name***/Volumouse/ (*Replace "your user name" by your username folder)
+2. Download the correct 2 files in your "Home" directory. For example : /home/***your user name***/Volumouse/ (*Replace "your user name" by your username folder)
 
 3. Install python-xlib package:
  Run in your Terminal :
@@ -24,9 +24,9 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
 3. If you want to start Volumouse automatically at startup :
 
    - Enter this ***two Python commands*** in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/ 
-       - `python3 "/home/#your user name#/Volumouse/#Your file Volumouse_left.py#"`
-       - `python3 "/home/#your user name#/Volumouse/#Your file Volumouse_right.py#"` 
-       (*Replace "***#your user name#***" by your username folder and "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
+       - `python3 "~/home/Volumouse/#Your file Volumouse_left.py#"`
+       - `python3 "~home/Volumouse/#Your file Volumouse_right.py#"` 
+       (*Replace "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
 
    - Or you can edit "crontab" (not working with me):
 
@@ -36,7 +36,7 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
 
         - Then copy this line at the end of the document :
 
-            - `@reboot python3 "/home/#your user name#/Volumouse/#Your file Volumouse_left.py#" & python3 "/home/#your user name#/Volumouse/#Your file Volumouse_right.py#"` (*Replace "***#your user name#***" by your username folder and "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side) and and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
+            - `@reboot python3 "~home/Volumouse/#Your file Volumouse_left.py#" & python3 "~home/Volumouse/#Your file Volumouse_right.py#"` (*Replace "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side) and and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
             
            
 
