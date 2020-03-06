@@ -7,7 +7,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 
 
-1. Download the file "VPNautoconnect.sh" in a folder in your Home directory. For exemple /home/***your user name***/VPN (*Replace "your user name" by your username folder
+1. Download the file "VPNautoconnect.sh" in a folder in your Home directory. For example /home/***your user name***/VPN (*Replace "your user name" by your username folder
 )
 
 
@@ -45,7 +45,7 @@ or in our case :
 
 `chmod +x /path/to/my/script/VPNautoconnect.sh`
 
-For exemple in our case :
+For example in our case :
 
 `chmod +x /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
 
@@ -67,7 +67,7 @@ If you want to connect to the VPN automatically at startup :
 
             `@reboot /path/to/my/script/VPNautoconnect.sh`
 
-            or in our exemple :
+            or in our example :
 
             `@reboot /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
 
