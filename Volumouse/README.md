@@ -23,7 +23,7 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
 
 3. If you want to start Volumouse automatically at startup :
 
-   - Enter this ***two Python commands*** in your favorite startup tool :
+   - Enter this ***two Python commands*** in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/ 
        - `python3 "/home/#your user name#/Volumouse/#Your file Volumouse_left.py#"`
        - `python3 "/home/#your user name#/Volumouse/#Your file Volumouse_right.py#"` 
        (*Replace "***#your user name#***" by your username folder and "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
