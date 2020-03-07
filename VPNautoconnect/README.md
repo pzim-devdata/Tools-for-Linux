@@ -35,7 +35,7 @@ To open "VPNautoconnect.sh" tape in your terminal :
 
 or in our case :
 
-`sudo gedit /home/your user name/VPN/VPNautoconnecte.sh` (*Replace "your user name" by your username's folder)
+`sudo gedit ~home/VPN/VPNautoconnecte.sh` 
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
 
@@ -47,7 +47,7 @@ or in our case :
 
 For example in our case :
 
-`chmod +x /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
+`chmod +x ~home/VPN/VPNautoconnect.sh` 
 
 
 
@@ -69,7 +69,7 @@ If you want to connect to the VPN automatically at startup :
 
             or in our example :
 
-            `@reboot /home/your user name/VPN/VPNautoconnect.sh` (*Replace "your user name" by your username's folder)
+            `@reboot ~home/VPN/VPNautoconnect.sh` 
 
 
         - Tape CTRL + X then y and Enter to save the document
