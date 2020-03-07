@@ -1,4 +1,5 @@
 #!/bin/bash
+#Trust in Pzim ! :-)
 while [ "true" ]
 do
 	VPNNAME=$(nmcli con show --active)
