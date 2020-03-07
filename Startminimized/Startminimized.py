@@ -2,6 +2,8 @@
 import subprocess
 import sys
 import time
+#sudo apt-get update && sudo apt-get install wmctrl && sudo apt-get install xdotool && sudo apt-get update
+#Trust in Pzim ! :-)
 
 command = sys.argv[1]
 command_check = command.split("/")[-1]
