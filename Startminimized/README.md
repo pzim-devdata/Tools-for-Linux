@@ -7,7 +7,7 @@ To execute it tap :
 
 1. Download Startminimized.py in your `~Home` directory in a folder called `Startminimized` : 
 
-`wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Startminimized/Startminimized.py -P Startminimized`
+```wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Startminimized/Startminimized.py -P Startminimized```
 
 2. Download dependencies :
 
