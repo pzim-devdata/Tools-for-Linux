@@ -48,7 +48,7 @@ To open "VPNautoconnect.sh" tape in your terminal :
 
 If you want to connect to the VPN automatically at startup :
 
-   - Enter the address of the script "VPNautoconnect.sh" (which is `~home/VPN/VPNautoconnect.sh`  in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
+   - Enter the address of the script "VPNautoconnect.sh" (which is `~home/VPN/VPNautoconnect.sh`)  in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
 
    - Or you can edit "crontab" (doesn't work for me):
 
