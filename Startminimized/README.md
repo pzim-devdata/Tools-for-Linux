@@ -2,7 +2,8 @@
 A Python 3 program that allows you to start a program minimized. For exemple Thunderbird.
 To execute it tap :
 
-```bash python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird```
+```bash
+python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird```
 ## How to install :
 
 1. Download Startminimized.py in your `~Home` directory in a folder called `Startminimized` : 
