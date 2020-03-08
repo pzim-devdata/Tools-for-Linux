@@ -7,8 +7,9 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 
 
-1. Download the file "VPNautoconnect.sh" in a folder in your Home directory. For example /home/***your user name***/VPN (*Replace "your user name" by your username folder
-)
+1. Download the file "VPNautoconnect.sh" in a folder called `VPN` in your `Home` directory :
+
+`wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/VPNautoconnect.sh -P VPN`
 
 
 
@@ -31,10 +32,6 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 To open "VPNautoconnect.sh" tape in your terminal :
 
-`sudo gedit /path/to/my/script/VPNautoconnecte.sh`
-
-or in our case :
-
 `sudo gedit ~home/VPN/VPNautoconnecte.sh` 
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
@@ -42,10 +39,6 @@ or in our case :
 
 
 5. Then open your Terminal in the folder where "VPNautoconnect.sh" is located and type :
-
-`chmod +x /path/to/my/script/VPNautoconnect.sh`
-
-For example in our case :
 
 `chmod +x ~home/VPN/VPNautoconnect.sh` 
 
@@ -55,7 +48,7 @@ For example in our case :
 
 If you want to connect to the VPN automatically at startup :
 
-   - Enter the address of the script "VPNautoconnect.sh"  in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
+   - Enter the address of the script "VPNautoconnect.sh" (which is `~home/VPN/VPNautoconnect.sh`  in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
 
    - Or you can edit "crontab" (doesn't work for me):
 
