@@ -13,7 +13,8 @@ python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 1. Download Startminimized.py in your `~Home` directory in a folder called `Startminimized` : 
 
 ```bash
-wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Startminimized/Startminimized.py -P Startminimized
+wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/Startminimized/Startminimized.py -P Startminimized
+
 ```
 
 2. Download dependencies :
