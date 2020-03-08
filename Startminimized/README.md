@@ -1,7 +1,7 @@
 # Sartminimized.py for Linux : Start any program minimized
 A Python 3 program that allows you to start a program minimized. For exemple Thunderbird.
 
-![Presentation_gif](Gifminimized)
+![Presentation__gif](Gifminimized)
 
 
 To execute it tap :
