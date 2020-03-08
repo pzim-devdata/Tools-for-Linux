@@ -9,19 +9,27 @@ python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 
 1. Download Startminimized.py in your `~Home` directory in a folder called `Startminimized` : 
 
-```wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Startminimized/Startminimized.py -P Startminimized```
+```bash
+wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Startminimized/Startminimized.py -P Startminimized
+```
 
 2. Download dependencies :
 
-`sudo apt-get update && sudo apt-get install wmctrl && sudo apt-get install xdotool && sudo apt-get update`
+```bash
+sudo apt-get update && sudo apt-get install wmctrl && sudo apt-get install xdotool && sudo apt-get update
+```
 
 3. Then open your Terminal in the folder where "Startminimized.py" is located and make it executable by typing :
 
-`chmod +x /path/to/my/program/Startminimized.py`
+```
+chmod +x /path/to/my/program/Startminimized.py
+```
 
 For example in our case :
 
-`chmod +x ~home/Startminimized/Startminimized.py` 
+```
+chmod +x ~home/Startminimized/Startminimized.py
+``` 
 
 4. Now execute it at startup (In this exemple with Thunderbird) :
 
@@ -29,25 +37,35 @@ For example in our case :
        
        For exemple for starting ***Thunderbird*** at startup :
        
-        `python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird` 
+        ```
+        python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
+        ``` 
        
        or in our case :
        
-       `python3 "~home/Startminimized/Startminimized.py" thunderbird` 
+       ```
+       python3 "~home/Startminimized/Startminimized.py" thunderbird
+       ``` 
 
     - Or you can edit "crontab" (doesn't work for me):
 
         Tape in your Terminal :
 
-        `sudo crontab -e`
+        ```
+        sudo crontab -e
+        ```
 
         Then copy this line at the end of the document :
 
-        `@reboot python3 "/path/to/my/program/Startminimized.py" thunderbird`
+        ```
+        @reboot python3 "/path/to/my/program/Startminimized.py" thunderbird
+        ```
 
         or in our example :
 
-        `@reboot python3 "~home/Startminimized/Startminimized.py" thunderbird`
+        ```
+        @reboot python3 "~home/Startminimized/Startminimized.py" thunderbird
+        ```
 
         Tape CTRL + X then y and Enter to save the document
 
