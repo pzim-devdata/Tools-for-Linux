@@ -27,7 +27,7 @@ chmod +x /path/to/my/program/Startminimized.py
 
 For example in our case :
 
-```
+```linux
 chmod +x ~home/Startminimized/Startminimized.py
 ``` 
 
