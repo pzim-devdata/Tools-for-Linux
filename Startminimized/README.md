@@ -2,7 +2,7 @@
 A Python 3 program that allows you to start a program minimized. For exemple Thunderbird.
 To execute it tap :
 
-```console
+```bash
 python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 ```
 ## How to install :
@@ -27,7 +27,7 @@ chmod +x /path/to/my/program/Startminimized.py
 
 For example in our case :
 
-```linux
+```sh
 chmod +x ~home/Startminimized/Startminimized.py
 ``` 
 
