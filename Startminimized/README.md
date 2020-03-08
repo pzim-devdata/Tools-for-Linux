@@ -21,7 +21,7 @@ sudo apt-get update && sudo apt-get install wmctrl && sudo apt-get install xdoto
 
 3. Then open your Terminal in the folder where "Startminimized.py" is located and make it executable by typing :
 
-```
+```bash
 chmod +x /path/to/my/program/Startminimized.py
 ```
 
