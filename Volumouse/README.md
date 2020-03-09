@@ -8,7 +8,9 @@
 ## Description :
 
 A Python 3 program that allows you to change the volume with the mouse wheel using it at the four corners of the screen.
+
 There are two files: one for the LEFT side and one for the RIGHT side of the screen. Like that, if you have two sound systems like an HiFi and an HDMI screen, you can change the volume for both.
+
 The screen size by default is 1920 * 1080 but you can change it by opening Python files with a notepad. You can also change the size of the detection box in the corners of the screen.
 
 
