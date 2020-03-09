@@ -3,6 +3,9 @@
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect  every 5 seconds if connection is lost.
 
 
+![Presentation__gif](GifVPN)
+
+
 ## How to install :
 
 
