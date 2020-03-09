@@ -10,7 +10,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 1. Download the file "VPNautoconnect.sh" in a folder called `VPN` in your `Home` directory :
 
 ```
-$home
+cd ~
 wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/VPNautoconnect/VPNautoconnect.sh -P VPN
 ```
 
@@ -35,7 +35,7 @@ wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/VPNa
 
 To open "VPNautoconnect.sh" tape in your terminal :
 ```
-$home
+cd ~
 sudo gedit VPN/VPNautoconnect.sh
 ``` 
 
@@ -46,7 +46,7 @@ sudo gedit VPN/VPNautoconnect.sh
 5. Then open your Terminal in the folder where "VPNautoconnect.sh" is located and type :
 
 ```
-$home
+cd ~
 chmod +x VPN/VPNautoconnect.sh
 ``` 
 
