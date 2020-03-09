@@ -9,7 +9,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 1. Download the file "VPNautoconnect.sh" in a folder called `VPN` in your `Home` directory :
 
-`wget https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/VPNautoconnect.sh -P VPN`
+`wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/VPNautoconnect/VPNautoconnect.sh -P VPN`
 
 
 
@@ -31,8 +31,10 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 4. Paste the VPN name and UUID in the "VPNautoconnect.sh" file :
 
 To open "VPNautoconnect.sh" tape in your terminal :
-
-`sudo gedit ~home/VPN/VPNautoconnecte.sh` 
+```
+$home
+sudo gedit VPN/VPNautoconnecte.sh
+``` 
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
 
@@ -40,7 +42,10 @@ To open "VPNautoconnect.sh" tape in your terminal :
 
 5. Then open your Terminal in the folder where "VPNautoconnect.sh" is located and type :
 
-`chmod +x ~home/VPN/VPNautoconnect.sh` 
+```
+$home
+chmod +x VPN/VPNautoconnect.sh
+``` 
 
 
 
@@ -48,7 +53,7 @@ To open "VPNautoconnect.sh" tape in your terminal :
 
 If you want to connect to the VPN automatically at startup :
 
-   - Enter the address of the script "VPNautoconnect.sh" (which is `~home/VPN/VPNautoconnect.sh`)  in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
+   - Enter the address of the script "VPNautoconnect.sh" (which is `VPN/VPNautoconnect.sh`)  in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/
 
    - Or you can edit "crontab" (doesn't work for me):
 
@@ -62,7 +67,7 @@ If you want to connect to the VPN automatically at startup :
 
             or in our example :
 
-            `@reboot ~home/VPN/VPNautoconnect.sh` 
+            `@reboot VPN/VPNautoconnect.sh` 
 
 
         - Tape CTRL + X then y and Enter to save the document
