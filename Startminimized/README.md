@@ -75,4 +75,5 @@ chmod +x Startminimized/Startminimized.py
 
         Tape CTRL + X then y and Enter to save the document
 
-Reboot an enjoy ! :-)
+
+Reboot an enjoy ! ::-):
