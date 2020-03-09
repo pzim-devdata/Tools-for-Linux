@@ -49,7 +49,7 @@ chmod +x Startminimized/Startminimized.py
        or in our case :
        
        ```
-       python3 "~home/Startminimized/Startminimized.py" thunderbird
+       python3 "Startminimized/Startminimized.py" thunderbird
        ``` 
 
     - Or you can edit "crontab" (doesn't work for me):
@@ -69,7 +69,7 @@ chmod +x Startminimized/Startminimized.py
         or in our example :
 
         ```
-        @reboot python3 "~home/Startminimized/Startminimized.py" thunderbird
+        @reboot python3 "Startminimized/Startminimized.py" thunderbird
         ```
 
         Tape CTRL + X then y and Enter to save the document
