@@ -19,6 +19,8 @@ wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/VPNa
 
 
 
+
+
 2. You must first know your UUID for the VPN connection and the name of this connection:
 
     - Type in the Terminal **when you are connected to the VPN** :
@@ -27,10 +29,14 @@ wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/VPNa
 
 
 
+
+
 3. Copy the VPN name and UUID:
 
 
 ![Image of the nmcli con command](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image1.png)
+
+
 
 
 
@@ -46,12 +52,16 @@ sudo gedit VPN/VPNautoconnect.sh
 
 
 
+
+
 5. Then open your Terminal in the folder where "VPNautoconnect.sh" is located and type :
 
 ```
 cd ~
 chmod +x VPN/VPNautoconnect.sh
 ``` 
+
+
 
 
 
