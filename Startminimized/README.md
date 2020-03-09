@@ -39,7 +39,7 @@ chmod +x Startminimized/Startminimized.py
 
 4. Now execute it at startup (In this exemple with Thunderbird) :
 
-    - Enter this ***command*** in your favorite startup tool (like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : ![](https://winaero.com/blog/manage-startup-apps-linux-mint/) :
+    - Enter this ***command*** in your favorite startup tool (like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/ :
        
        For exemple for starting ***Thunderbird*** at startup :
        
