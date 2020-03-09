@@ -32,7 +32,8 @@ chmod +x /path/to/my/program/Startminimized.py
 For example in our case :
 
 ```sh
-chmod +x ~home/Startminimized/Startminimized.py
+$home
+chmod +x Startminimized/Startminimized.py
 ``` 
 
 4. Now execute it at startup (In this exemple with Thunderbird) :
