@@ -88,8 +88,8 @@ If you want to connect to the VPN automatically at startup :
 
         - Tape CTRL + X then y and Enter to save the document
 
-Reboot an enjoy ! :-)
 
+Reboot an enjoy ! :blush:
 
 
    
