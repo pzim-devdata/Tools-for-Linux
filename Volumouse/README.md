@@ -1,6 +1,6 @@
 # Volumouse.py for Linux : Change the volume with the mouse wheel !
 
-[![Licence](https://camo.githubusercontent.com/2b5c48821f22738887c98a07f95852b610fb555b/68747470733a2f2f696d672e736869656c64732e696f2f61706d2f6c2f61746f6d69632d64657369676e2d75692e7376673f)](https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/LICENSE)    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)    [![GitHub issues](<img alt="Bitbucket open issues" src="https://img.shields.io/bitbucket/issues-raw/pzim-devdata/Tools-for-Debian">)](https://github.com/pzim-devdata/Tools-for-Debian/issues)
+[![Licence](https://camo.githubusercontent.com/2b5c48821f22738887c98a07f95852b610fb555b/68747470733a2f2f696d672e736869656c64732e696f2f61706d2f6c2f61746f6d69632d64657369676e2d75692e7376673f)](https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/LICENSE)    [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)    [![GitHub issues](![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/pzim-devdata/Tools-for-Debian))](https://github.com/pzim-devdata/Tools-for-Debian/issues)
 
 A Python 3 program that allows you to change the volume with the mouse wheel using it at the four corners of the screen.
 There are two files: one for the LEFT side and one for the RIGHT side of the screen. Like that, if you have two sound systems like an HiFi and an HDMI screen, you can change the volume for both.
