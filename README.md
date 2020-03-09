@@ -13,9 +13,13 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 
 - [Volumouse]( https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Volumouse) :
 
+[Download zip file :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip)
+
 A Python 3 program that allows you to change the volume with the mouse wheel by using it in the four corners of the screen
 
 - [Startminimized](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Startminimized) :
+
+[Download zip file :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Startminimized.zip)
 
 A Python 3 program that allows you to start a program minimized. For exemple Thunderbird. To execute it tap : 
 ```ps
