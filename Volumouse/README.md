@@ -24,8 +24,8 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
 3. If you want to start Volumouse automatically at startup :
 
    - Enter this ***two Python commands*** in your favorite startup tool : like "gnome-tweak-tool" for Gnome or other startup applications for other desktop environment : https://winaero.com/blog/manage-startup-apps-linux-mint/ 
-       - `python3 "~/home/Volumouse/#Your file Volumouse_left.py#"`
-       - `python3 "~home/Volumouse/#Your file Volumouse_right.py#"` 
+       - `python3 "Volumouse/#Your file Volumouse_left.py#"`
+       - `python3 "Volumouse/#Your file Volumouse_right.py#"` 
        (*Replace "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
 
    - Or you can edit "crontab" (not working with me):
@@ -36,10 +36,11 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
 
         - Then copy this line at the end of the document :
 
-            - `@reboot python3 "~home/Volumouse/#Your file Volumouse_left.py#" & python3 "~home/Volumouse/#Your file Volumouse_right.py#"` (*Replace "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side) and and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
+            - `@reboot python3 "Volumouse/#Your file Volumouse_left.py#" & python3 "Volumouse/#Your file Volumouse_right.py#"` (*Replace "***#Your file Volumouse_left.py#***" by the name of the Python file for the LEFT side) and and "***#Your file Volumouse_right.py#***" by the name of the Python file for the RIGHT side)
             
            
 
         - Tape CTRL + X then y and Enter to save the document
 
-Reboot an enjoy ! :-)
+
+Reboot an enjoy ! :blush:
