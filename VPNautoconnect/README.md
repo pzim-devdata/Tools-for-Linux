@@ -36,7 +36,7 @@ wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/VPNa
 To open "VPNautoconnect.sh" tape in your terminal :
 ```
 $home
-sudo gedit VPN/VPNautoconnecte.sh
+sudo gedit VPN/VPNautoconnect.sh
 ``` 
 
 ![Image of the UUID in the file VPNautoconnect.sh](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/VPNautoconnect/Image2.png)
