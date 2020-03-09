@@ -5,7 +5,7 @@ There are two files: one for the LEFT side and one for the RIGHT side of the scr
 The screen size by default is 1920 * 1080 but you can change it by opening Python files with a notepad. You can also change the size of the detection box in the corners of the screen.
 
 
-[GifVolumouse.gif](GifVolumouse.gif)
+[GifVolumouse.gif](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Volumouse/GifVolumouse.gif)
 
 
 ## How to install :
