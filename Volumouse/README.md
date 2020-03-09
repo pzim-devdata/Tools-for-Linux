@@ -4,7 +4,7 @@ A Python 3 program that allows you to change the volume with the mouse wheel usi
 There are two files: one for the LEFT side and one for the RIGHT side of the screen. Like that, if you have two sound systems like an HiFi and an HDMI screen, you can change the volume for both.
 The screen size by default is 1920 * 1080 but you can change it by opening Python files with a notepad. You can also change the size of the detection box in the corners of the screen.
 
-[![<pzim-devdata>](https://circleci.com/gh/pzim-devdata/Tools-for-Debian.svg?style=svg)](https://github.com/pzim-devdata/Tools-for-Debian/issues)
+[![<pzim-devdata>](https://pzim-devdata/Tools-for-Debian.svg?style=svg)](https://github.com/pzim-devdata/Tools-for-Debian/issues)
 
 ![GifVolumouse.gif](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Volumouse/GifVolumouse.gif)
 
