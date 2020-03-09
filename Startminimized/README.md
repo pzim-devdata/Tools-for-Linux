@@ -13,6 +13,7 @@ python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 1. Download Startminimized.py in your `~Home` directory in a folder called `Startminimized` : 
 
 ```bash
+cd ~
 wget https://raw.githubusercontent.com/pzim-devdata/Tools-for-Debian/master/Startminimized/Startminimized.py -P Startminimized
 
 ```
@@ -32,7 +33,7 @@ chmod +x /path/to/my/program/Startminimized.py
 For example in our case :
 
 ```sh
-$home
+cd ~
 chmod +x Startminimized/Startminimized.py
 ``` 
 
