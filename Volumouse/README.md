@@ -15,7 +15,7 @@ The screen size by default is 1920 * 1080 but you can change it by opening Pytho
 
 
 
-![GifVolumouse.gif](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/Volumouse/GifVolumouse.gif)
+![GifVolumouse.gif](GifVolumouse.gif)
 
 
 ## How to install :
