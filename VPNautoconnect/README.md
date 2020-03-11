@@ -109,7 +109,7 @@ Install them in this directory :
 - For Némo (Cinnamon) in : ~/.local/share/nemo/scripts/
 
 
-![](https://github.com/pzim-devdata/Tools-for-Linux/blob/master/VPNautoconnect/Capture%20d%E2%80%99%C3%A9cran%20du%202020-03-11%2007-07-30.png)
+![](https://github.com/pzim-devdata/Tools-for-Linux/blob/master/VPNautoconnect/Image3.png)
 
 
    
