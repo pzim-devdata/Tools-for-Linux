@@ -97,6 +97,10 @@ If you want to connect to the VPN automatically at startup :
 
 Reboot an enjoy ! :blush:
 
+
+-----------------------------------------
+
+
 In bonus, you can [download 3 little scripts for Nemo or Nautilus](https://github.com/pzim-devdata/Tools-for-Linux/raw/master/VPNautoconnect/Scripts.zip) in order to connect or disconnect quickly and easily :blush:
 Install them in this directory :
 
