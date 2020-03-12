@@ -84,3 +84,19 @@ chmod +x Startminimized/Startminimized.py
 
 
 Reboot an enjoy ! :blush:
+
+
+--------------------------------------------
+
+## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
