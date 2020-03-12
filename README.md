@@ -24,4 +24,21 @@ A Python 3 program that allows you to change the volume with the mouse wheel by 
 A Python 3 program that allows you to start a program minimized. For exemple Thunderbird. To execute it tap : 
 ```ps
 python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
+
 ```
+--------------------------------------------
+
+## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
+
+
