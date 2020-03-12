@@ -26,6 +26,7 @@ A Python 3 program that allows you to start a program minimized. For exemple Thu
 python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 
 ```
+
 --------------------------------------------
 
 ## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
