@@ -6,7 +6,7 @@
 
 ## Description :
 
-Here is a script for starting a program in another worhspace for Linux. Works with wmctrl. 
+Here is a script for starting a program in another workspace for Linux. Works with wmctrl. 
 
 You can use this script with Nemo or Nautilus in order to laugh any application quickly and easily :blush:. Install them in this directory :
 
