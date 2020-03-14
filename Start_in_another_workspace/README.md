@@ -4,6 +4,8 @@
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Start_in_another_workspace.zip)
 
+## Description :
+
 Here is a script for starting a program in another worhspace for Linux. Works with wmctrl. 
 
 You can use this script with Nemo or Nautilus in order to laugh any application quickly and easily :blush:. Install them in this directory :
@@ -11,6 +13,10 @@ You can use this script with Nemo or Nautilus in order to laugh any application 
 - For Caja (Mate) in : ~/.config/caja/scripts.
 - For Nautilus (Gnome/Unity) in : ~/.local/share/nautilus/scripts
 - For Némo (Cinnamon) in : ~/.local/share/nemo/scripts/
+
+![Presentation__gif](Gifstat_in_another_workspace)
+
+## How to install :
 
 1. Install wmctrl
 ```command
