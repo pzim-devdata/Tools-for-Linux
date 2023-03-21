@@ -4,6 +4,7 @@
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip)
 
+$${\color{red}THIS PROJECT IS DEPRECATED BUT STILL WORKS. I SUGGEST TO GO TO THE NEW PROJECT : https://github.com/pzim-devdata/volumouse}$$
 <code style="color : red">THIS PROJECT IS DEPRECATED BUT STILL WORKS. I SUGGEST TO GO TO THE NEW PROJECT : https://github.com/pzim-devdata/volumouse</code>
 
 
