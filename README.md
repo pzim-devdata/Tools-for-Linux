@@ -4,6 +4,7 @@
 
 
 Here are many tools to configure Linux :
+
 - [Shortcuts for Linux](https://github.com/pzim-devdata/shortcuts-for-Linux) :
 
 [Tray_icon_audio_output_switcher](https://github.com/pzim-devdata/shortcuts-for-Linux/tree/main/Tray_icon_audio_output_switcher): A tray icon that allows you to easily switch between different audio output devices with a simple click.
@@ -13,19 +14,19 @@ Here are many tools to configure Linux :
 [Tray_icon_desktop](https://github.com/pzim-devdata/shortcuts-for-Linux/tree/main/Tray_icon_desktop): A tray icon that offers quick access to the desktop environment, allowing you to show or hide the desktop with a single click.
 
 This project provides a collection of useful tray icon shortcuts for Linux. These tray icons offer convenient shortcuts and quick access to various functionalities.
-
+--
 - [VPNautoconnect](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/VPNautoconnect) : 
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip)
 
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect if connection is lost.
-
+--
 - [Volumouse]( https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Volumouse) :
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip)
 
 A Python 3 program that allows you to change the volume with the mouse wheel by using it in the four corners of the screen
-
+--
 - [Startminimized](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Startminimized) :
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Startminimized.zip)
@@ -35,7 +36,7 @@ A Python 3 program that allows you to start a program minimized. For exemple Thu
 python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 
 ```
-
+--
 - [Start_in_another_workspace](https://github.com/pzim-devdata/Tools-for-Linux/tree/master/Start_in_another_workspace)
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Start_in_another_workspace.zip)
