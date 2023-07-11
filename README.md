@@ -25,7 +25,7 @@ This project provides a collection of useful tray icon shortcuts for Linux. Thes
 
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect if connection is lost.
 
---
+--------------------------------------------
 
 ## - [Volumouse]( https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Volumouse) :
 
