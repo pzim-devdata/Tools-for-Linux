@@ -16,6 +16,7 @@ Here are many tools to configure Linux :
 This project provides a collection of useful tray icon shortcuts for Linux. These tray icons offer convenient shortcuts and quick access to various functionalities.
 
 --
+
 - [VPNautoconnect](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/VPNautoconnect) : 
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip)
@@ -23,6 +24,7 @@ This project provides a collection of useful tray icon shortcuts for Linux. Thes
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect if connection is lost.
 
 --
+
 - [Volumouse]( https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Volumouse) :
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Volumouse.zip)
@@ -30,6 +32,7 @@ A script to automatically connect to the VPN at startup (if you lauch this scrip
 A Python 3 program that allows you to change the volume with the mouse wheel by using it in the four corners of the screen
 
 --
+
 - [Startminimized](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/Startminimized) :
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Startminimized.zip)
@@ -41,6 +44,7 @@ python3 "/PATH/TO/THE/PROGRAM/Startminimized.py" thunderbird
 ```
 
 --
+
 - [Start_in_another_workspace](https://github.com/pzim-devdata/Tools-for-Linux/tree/master/Start_in_another_workspace)
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/Start_in_another_workspace.zip)
