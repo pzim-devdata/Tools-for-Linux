@@ -1,10 +1,12 @@
 # VPNautoconnect.sh for Linux : Automatically connect to the VPN at startup and reconnect if connection is lost.
 
-[![GitHub license](https://img.shields.io/github/license/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/LICENSE)   [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/Tools-for-Debian?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/Tools-for-Debian/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/Tools-for-Debian?style=plastic)    [![GitHub commits](https://img.shields.io/github/commits-since/pzim-devdata/Tools-for-Debian/v1.0.0.svg?style=plastic)](https://GitHub.com/pzim-devata/Tools-for-Debian/commit/)
+[![GitHub license](https://img.shields.io/github/license/pzim-devdata/VPNautoconnect?style=plastic)](https://github.com/pzim-devdata/VPNautoconnect/blob/master/LICENSE)   [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/VPNautoconnect?style=plastic)](https://github.com/pzim-devdata/VPNautoconnect/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/VPNautoconnect?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/VPNautoconnect/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/VPNautoconnect?style=plastic)    [![GitHub commits](https://img.shields.io/github/commits-since/pzim-devdata/VPNautoconnect/v1.0.0.svg?style=plastic)](https://GitHub.com/pzim-devata/VPNautoconnect/commit/)
 
-[Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip)
+[Download :inbox_tray:](https://github.com/pzim-devdata/VPNautoconnect/releases/download/v1.0.0/VPNautoconnect.zip)
 
 ## Description :
+THIS VERSION IS DEPRECATED BUT STILL WORKS. GO TO [THE NEW VERSION OF VPN_AUTOCONNECT](https://github.com/pzim-devdata/vpn_autoconnect)
+
 
 A script to automatically connect to the VPN at startup (if you lauch this script at startup) and reconnect  every 5 seconds if connection is lost.
 
