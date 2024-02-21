@@ -19,6 +19,14 @@ This project provides a collection of useful tray icon shortcuts for Linux. Thes
 
 --------------------------------------------
 
+## - [Sleep Until](https://github.com/pzim-devdata/sleep_until) : 
+
+[Download :inbox_tray:](https://github.com/pzim-devdata/sleep_until/archive/refs/heads/main.zip)
+
+Sleep Until is a Bash script to wait for a specified astronomical event such as sunrise or sunset before continuing execution.
+
+--------------------------------------------
+
 ## - [VPNautoconnect](https://github.com/pzim-devdata/Tools-for-Debian/tree/master/VPNautoconnect) : 
 
 [Download :inbox_tray:](https://github.com/pzim-devdata/Tools-for-Linux/releases/download/v1.0.0/VPNautoconnect.zip)
