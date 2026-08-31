@@ -63,13 +63,13 @@ A script for starting a program in another workspace for Linux. Works with wmctr
 
 --------------------------------------------
 
-## - [AnyThemeColorShifter-for-Cinnamon](https://github.com/pzim-devdata/AnyThemeColorShifter-for-Cinnamon) :
+## - [CinnShift](https://github.com/pzim-devdata/CinnShift) :
 
-[Download :inbox_tray:](https://github.com/pzim-devdata/AnyThemeColorShifter-for-Cinnamon/archive/refs/heads/main.zip)
+[Download :inbox_tray:](https://github.com/pzim-devdata/CinnShift/archive/refs/heads/main.zip)
 
 A Python 3 program that clones any Cinnamon/GTK theme, detects its accent color and all derived variants (hover, active, borders, disabled states), shifts them to a new target color using HSV scaling, and applies the modified theme instantly via gsettings. Supports interactive color picker (--pick), random color generation (--random), and separate Desktop/Applications themes.
 
-![Before](https://raw.githubusercontent.com/pzim-devdata/AnyThemeColorShifter-for-Cinnamon/main/BEFORE.png) ![After](https://raw.githubusercontent.com/pzim-devdata/AnyThemeColorShifter-for-Cinnamon/main/AFTER.png)
+![Before](https://raw.githubusercontent.com/pzim-devdata/CinnShift/main/BEFORE.png) ![After](https://raw.githubusercontent.com/pzim-devdata/CinnShift/main/AFTER.png)
 
 --------------------------------------------
 
